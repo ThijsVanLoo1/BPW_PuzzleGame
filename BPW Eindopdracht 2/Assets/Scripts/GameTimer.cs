@@ -26,6 +26,10 @@ public class GameTimer : MonoBehaviour
         {
             ResetPuzzle();
         }
+        else if(Input.GetKeyDown(KeyCode.E))
+        {
+            ResetPuzzle();
+        }
     }
 
     public void ResetPuzzle()
