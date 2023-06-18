@@ -145,7 +145,7 @@ MonoBehaviour:
   allowAllDirections: 1
   disableGravity: 1
   resetVel: 1
-  dashCooldown: 0
+  dashCooldown: 1.2
 --- !u!1 &6436332400287118100
 GameObject:
   m_ObjectHideFlags: 0
